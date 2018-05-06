@@ -9,6 +9,8 @@ public class GetFontColorAlign {
 
 	/**
 	 * @param args
+	 //args[0]--->path to chrome .exe location
+	
 	 * @throws InterruptedException 
 	 */
 	public static void main(String[] args) throws InterruptedException {
