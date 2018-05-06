@@ -13,6 +13,9 @@ public class FacebookLoginLogut {
 	/**
 	 * @param args
 	 * @throws InterruptedException 
+	 //args[0]--->path to chrome .exe location
+	//args[1]-->Facebook login username
+	//args[2]-->Facebook login password
 	 */
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
