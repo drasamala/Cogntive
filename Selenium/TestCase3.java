@@ -12,6 +12,9 @@ public class TestCase3 {
 
 	/**
 	 * @param args
+	 //args[0]--->path to chrome .exe location
+	//args[1]-->Facebook login username
+	//args[2]-->Facebook login password
 	 * @throws InterruptedException 
 	 */
 	public static void main(String[] args) throws InterruptedException {
